@@ -1,0 +1,54 @@
+aid: atomwise
+name: Atomwise
+description: >-
+  Atomwise pioneered the use of deep convolutional neural networks for
+  structure-based drug discovery, with its AtomNet platform applying AI to
+  virtual screening of small molecules against protein targets. The company
+  ran the Artificial Intelligence Molecular Screen (AIMS) academic
+  collaboration program, partnered with biotech and pharma companies on
+  discovery contracts, and built an internal pipeline of small-molecule
+  programs. As of 2026, atomwise.com redirects to Numerion Labs
+  (numerionlabs.ai), reflecting an apparent rebrand or successor entity that
+  positions itself as an AI superplatform exploring drug-like chemical space
+  with programs in immune and inflammatory diseases. Atomwise never exposed
+  a public commercial API; AtomNet screening was delivered to partners as a
+  service. The legacy GitHub organization (github.com/atomwise) hosts no
+  public repositories.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Drug Discovery
+  - Biotech
+  - Pharmaceuticals
+  - Structure-Based Drug Design
+  - Virtual Screening
+  - Deep Learning
+  - Convolutional Neural Networks
+  - AtomNet
+  - Small Molecules
+  - Cheminformatics
+  - AIMS Program
+  - Numerion Labs
+url: https://raw.githubusercontent.com/api-evangelist/atomwise/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.atomwise.com
+  - type: Successor
+    url: https://numerionlabs.ai
+  - type: GitHubOrganization
+    url: https://github.com/atomwise
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/atomwise-inc-
+  - type: Twitter
+    url: https://twitter.com/AtomwiseInc
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/atomwise
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
